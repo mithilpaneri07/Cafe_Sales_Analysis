@@ -107,16 +107,13 @@ Create an interactive dashboard with:
 - Cleaned Dataset
 - Business Charts
 - Power BI Dashboard
+```
 
 ---
 
 ##  Dashboard Preview
 
-```html
-<p align="center">
   <img src="Cafe_Sales.png" width="900">
-</p>
-```
 
 ---
 
@@ -147,7 +144,7 @@ Create an interactive dashboard with:
 </td>
 
 <td align="center">
-<img src="images/SC-5.png" width="350"><br>
+<img src="SC-5.png" width="350"><br>
 <b>Distribution of Total Spent</b>
 </td>
 
